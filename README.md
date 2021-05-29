@@ -9,7 +9,7 @@
 
 ### 📖 &nbsp;Learning
 
-  &nbsp;I'm currently learning more specifics things about 
+  &nbsp;I'm currently improving my skills on
   &nbsp;![Python](https://img.shields.io/badge/Python-3.9-FFD43B?logo=python&logoColor=FFD43B&labelColor=4B8BBE)&nbsp;
   and I'm learning 
   &nbsp;![PHP](https://img.shields.io/badge/PHP-7.4-8993be?logo=php&logoColor=8993be&labelColor=232531)&nbsp;
@@ -17,18 +17,30 @@
   &nbsp;![Javascript](https://img.shields.io/badge/Javascript-ES6-f0db4f?logo=javascript&logoColor=f0db4f&labelColor=323330)&nbsp;
   which I haven't used enough to master.
 
+### 🛠 &nbsp;Abilities
+<table>
+  <tr>
+    <td> <img alt="Python 3.9" src="https://img.shields.io/badge/Python-3.9-FFD43B?logo=python&logoColor=FFD43B&labelColor=4B8BBE" /> </td>
+    <td> High Level </td>
+  </tr>
+  <tr>
+    <td> <img alt="HTML 5" src="https://img.shields.io/badge/HTML-5-orange?logo=HTML5" /> </td>
+    <td> Nice </td>
+  </tr>
+  <tr>
+    <td> <img alt="PHP 7.4" src="https://img.shields.io/badge/PHP-7.4-8993be?logo=php&logoColor=8993be&labelColor=232531" /> </td>
+    <td> Correct </td>
+  </tr>
+  <tr>
+    <td> <img alt="CSS 3" src="https://img.shields.io/badge/CSS-3-blue?logo=CSS3&labelColor=white&logoColor=blue" /> </td>
+    <td> In progress </td>
+  </tr>
+  <tr>
+    <td> <img alt="Javascript ES6" src="https://img.shields.io/badge/Javascript-ES6-f0db4f?logo=javascript&logoColor=f0db4f&labelColor=323330" /> </td>
+    <td> In progress </td>
+  </tr>
+ <table>
 
-<!--
-**Az-Been/Az-Been** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+ ### 📝 &nbsp;Need to talk with me ?
+  You can contact me on my Discord : Az#5604
