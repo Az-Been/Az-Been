@@ -43,4 +43,4 @@
 
    
  ### 📝 &nbsp;Need to talk with me ?
-  You can contact me on my Discord : Az#5604
+  You can contact me on my Discord : Az_#6666
